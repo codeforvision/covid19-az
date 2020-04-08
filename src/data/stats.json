@@ -1,0 +1,14 @@
+{
+  "country": "Azerbaijan",
+  "cases": 822,
+  "todayCases": 105,
+  "deaths": 8,
+  "todayDeaths": 0,
+  "recovered": 63,
+  "active": 751,
+  "critical": 23,
+  "casesPerOneMillion": 81,
+  "deathsPerOneMillion": 0.8,
+  "tests": 53300,
+  "testsPerOneMillion": 5257
+}

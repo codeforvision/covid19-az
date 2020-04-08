@@ -1,0 +1,141 @@
+$color-active: #ff9f1c
+$color-deaths: #011627
+$color-confirmed: #a4adc0
+$color-recovered: #41ead4
+$color-critical: #f71735
+$color-mute: #8a8d96
+
+html, button, input, select, textarea, .pure-g [class *= "pure-u"]
+  font-family: 'Open Sans', sans-serif
+
+body
+  background-color: #fdfffc
+
+h1 span
+  display: block
+
+footer
+  text-align: center
+  background-color: #edf2f4
+  padding-bottom: 80px
+  .title
+    font-size: 28px
+    font-weight: 700
+    margin-bottom: 0
+  .description
+    font-size: 18px
+    font-weight: 400
+    margin-top: 10px
+
+[v-cloak]
+  display: none
+
+.capitalize
+  text-transform: capitalize
+
+.container
+  margin: 0 auto
+  margin-bottom: 80px
+
+.not_found
+  text-align: center
+  padding-top: 150px
+  h1
+    color: $color-mute
+
+.last-update
+  font-style: italic
+  time
+    font-weight: bold
+
+.note
+  font-size: 13px
+  line-height: 1.2
+  color: $color-mute
+
+.test-link
+  color: #fff;
+  background-color: #ff1654
+
+.nav-link
+  margin-top: 20px
+  font-size: 120%
+
+.tg-link
+  text-align: center
+  margin: 20px 0
+  svg
+    width: 32px
+    height: 32px
+    margin-top: 10px
+  p
+    margin: 10px 0
+  a
+    color: #fff;
+    background-color: #039be5
+
+.stats
+  text-align: center
+  .value
+    font-size: 32px
+    font-weight: 800
+  .label
+    font-weight: 700
+  .active
+    color: $color-active
+  .critical
+    color: $color-critical
+  .recovered
+    color: $color-recovered
+  .deaths
+    color: $color-deaths
+  .confirmed
+    color: $color-confirmed
+
+.test
+  .fade-enter-active
+    transition: opacity .5s
+
+  .fade-enter
+    opacity: 0
+
+  nav, .cancel-action
+    text-align: right
+  form
+    font-size: 120%
+    label
+      cursor: pointer
+      color: #495867
+      background-color: #f7f7ff
+      border: 1px solid #577399
+      border-radius: 2px
+      border-width: 4px
+      padding: 10px
+    button
+      margin-top: 10px
+
+  .notice
+    color: #13293d
+    background-color: #d9d9d9
+    border-radius: 2px
+    padding: 10px 20px
+    .start-action
+      text-align: center
+      button
+        font-size: 150%
+        color: #fff
+        background-color: #20bf55
+
+  .results
+    color: #13293d
+    .title
+      font-weight: bold
+    .step
+      border-bottom: 1px solid #e5e5e5
+      .detail
+        white-space: pre-line
+    .retest-action
+      text-align: center
+    svg
+      width: 50%
+      height: 50%

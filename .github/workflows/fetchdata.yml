@@ -1,0 +1,28 @@
+name: Fetch data
+
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+
+jobs:
+  build:
+    if: github.repository == 'codeforvision/covid19-az'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set git config
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Get the latest stats
+        run: |
+          curl -sS https://corona.lmao.ninja/countries/azerbaijan | jq 'del(.countryInfo)' | jq 'del(.updated)' > src/data/stats.json
+          git commit -a -m "Update stats.json" || echo "No updates to commit"
+      - name: Get the latest timeseries
+        run: |
+          curl -sS https://pomber.github.io/covid19/timeseries.json | jq .Azerbaijan > src/data/timeseries.json
+          git commit -a -m "Update timeseries.json" || echo "No updates to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
