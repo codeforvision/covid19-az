@@ -27,6 +27,12 @@ jobs:
           npx minify-json dist/data
           npx terser dist/assets/main.js -o dist/assets/main.js -c toplevel -m toplevel
           npx terser dist/assets/test.js -o dist/assets/test.js -c toplevel -m toplevel
+      - name: Temporarily disable "include administrators" branch protection
+        uses: benjefferies/branch-protection-bot@master
+        if: always()
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          branch: gh-pages
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -36,3 +42,11 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: Deploy
+      - name: Enable "include administrators" branch protection
+        uses: benjefferies/branch-protection-bot@master
+        if: always()
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          owner: codeforvision
+          repo: covid19-az
+          branch: gh-pages
