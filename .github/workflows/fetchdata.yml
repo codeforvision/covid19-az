@@ -12,17 +12,20 @@ jobs:
       - uses: actions/checkout@v2
       - name: Set git config
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
       - name: Get the latest stats
         run: |
           curl -sS https://corona.lmao.ninja/countries/azerbaijan | jq 'del(.countryInfo)' | jq 'del(.updated)' > src/data/stats.json
-          git commit -a -m "Update stats.json" || echo "No updates to commit"
+          git commit -am "Update stats.json" || echo "No updates to commit"
       - name: Get the latest timeseries
         run: |
           curl -sS https://pomber.github.io/covid19/timeseries.json | jq .Azerbaijan > src/data/timeseries.json
-          git commit -a -m "Update timeseries.json" || echo "No updates to commit"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          git commit -am "Update timeseries.json" || echo "No updates to commit"
+      - name: Create Pull Request with updated data files
+        uses: peter-evans/create-pull-request@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          title: Automated data update
+          body: This is an auto-generated PR with data updates.
+          branch: data-updates
+          reviewers: NARKOZ
