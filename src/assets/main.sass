@@ -3,6 +3,7 @@ $color-deaths: #011627
 $color-confirmed: #a4adc0
 $color-recovered: #41ead4
 $color-critical: #f71735
+$color-tests: #00a8e8
 $color-mute: #8a8d96
 
 html, button, input, select, textarea, .pure-g [class *= "pure-u"]
@@ -79,6 +80,8 @@ footer
 
 .stats
   text-align: center
+  .diff
+    font-weight: 700
   .value
     font-size: 32px
     font-weight: 800
@@ -94,6 +97,10 @@ footer
     color: $color-deaths
   .confirmed
     color: $color-confirmed
+  .tests
+    color: $color-tests
+  .tests, .confirmed, .recovered
+    margin-top: 20px
 
 .test
   .fade-enter-active

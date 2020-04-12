@@ -25,23 +25,31 @@ date: Last Modified
 <main>
   <section class="stats">
     <div class="pure-g">
-      <div class="pure-u-1-5 active" title="Yoluxma halları sağalma və ölüm halları istisna olmaqla">
+      <div class="pure-u-8-24 active" title="Yoluxma halları sağalma və ölüm halları istisna olmaqla">
         <div class="value">{{ stats.active }}</div>
         <div class="label">Aktiv</div>
       </div>
-      <div class="pure-u-1-5 critical">
+      <div class="pure-u-8-24 critical">
         <div class="value">{{ stats.critical }}</div>
         <div class="label">Kritik</div>
       </div>
-      <div class="pure-u-1-5 deaths">
+      <div class="pure-u-8-24 deaths">
+        <div class="diff">( +{{ stats.todayDeaths }} )</div>
         <div class="value">{{ stats.deaths }}</div>
         <div class="label">Ölüm</div>
       </div>
-      <div class="pure-u-1-5 confirmed">
+    </div>
+    <div class="pure-g">
+      <div class="pure-u-8-24 tests">
+        <div class="value">{{ stats.tests }}</div>
+        <div class="label">Müayinə</div>
+      </div>
+      <div class="pure-u-8-24 confirmed">
+        <div class="diff">( +{{ stats.todayCases }} )</div>
         <div class="value">{{ stats.cases }}</div>
         <div class="label">Yoluxma</div>
       </div>
-      <div class="pure-u-1-5 recovered">
+      <div class="pure-u-8-24 recovered">
         <div class="value">{{ stats.recovered }}</div>
         <div class="label">Sağalma</div>
       </div>
