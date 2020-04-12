@@ -34,7 +34,9 @@ date: Last Modified
         <div class="label">Kritik</div>
       </div>
       <div class="pure-u-8-24 deaths">
-        <div class="diff">( +{{ stats.todayDeaths }} )</div>
+        {% if stats.todayDeaths > 0 %}
+          <div class="diff">( +{{ stats.todayDeaths }} )</div>
+        {% endif %}
         <div class="value">{{ stats.deaths }}</div>
         <div class="label">Ölüm</div>
       </div>
@@ -45,7 +47,9 @@ date: Last Modified
         <div class="label">Müayinə</div>
       </div>
       <div class="pure-u-8-24 confirmed">
-        <div class="diff">( +{{ stats.todayCases }} )</div>
+        {% if stats.todayCases > 0 %}
+          <div class="diff">( +{{ stats.todayCases }} )</div>
+        {% endif %}
         <div class="value">{{ stats.cases }}</div>
         <div class="label">Yoluxma</div>
       </div>
