@@ -484,5 +484,11 @@
     "confirmed": 1058,
     "deaths": 11,
     "recovered": 200
+  },
+  {
+    "date": "2020-4-12",
+    "confirmed": 1098,
+    "deaths": 11,
+    "recovered": 250
   }
 ]
