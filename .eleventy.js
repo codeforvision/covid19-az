@@ -22,7 +22,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setTemplateFormats('html');
   eleventyConfig.addPassthroughCopy('src/data');
   eleventyConfig.addPassthroughCopy('src/assets/**/*.{js,png}');
-  eleventyConfig.addPassthroughCopy({ 'src/assets/favicon.svg': 'favicon.svg' });
+  eleventyConfig.addPassthroughCopy({ 'src/assets/favicons/*': '.' });
 
   return {
     dir: {
