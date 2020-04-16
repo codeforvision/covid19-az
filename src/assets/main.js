@@ -108,14 +108,19 @@
       confirmed: [],
       dailyDiff: ['dailyDiff']
     };
-    var confirmedYesterday;
+    var confirmedYesterday, dailyDiff;
 
     data.forEach(({ date, confirmed }) => {
       if (confirmed === 0) { return; }
-      cols.date.push(date);
+
       cols.confirmed.push(confirmed);
       confirmedYesterday = cols.confirmed[cols.confirmed.length - 2];
-      cols.dailyDiff.push(confirmed - confirmedYesterday);
+      dailyDiff = confirmed - confirmedYesterday;
+
+      if (dailyDiff > 0) {
+        cols.date.push(date);
+        cols.dailyDiff.push(dailyDiff);
+      }
     });
 
     var dailyChart = c3.generate({
