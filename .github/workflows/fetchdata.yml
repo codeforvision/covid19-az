@@ -16,7 +16,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
       - name: Get the latest stats
         run: |
-          curl -sS https://corona.lmao.ninja/countries/azerbaijan | jq 'del(.countryInfo)' | jq 'del(.updated)' > src/data/stats.json
+          curl -sS https://corona.lmao.ninja/v2/countries/azerbaijan | jq 'del(.countryInfo)' | jq 'del(.updated)' > src/data/stats.json
           git commit -am "Update stats.json" || echo "No updates to commit"
       - name: Get the latest timeseries
         run: |
