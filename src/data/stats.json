@@ -1,14 +1,3 @@
 {
-  "country": "Azerbaijan",
-  "cases": 1283,
-  "todayCases": 30,
-  "deaths": 15,
-  "todayDeaths": 2,
-  "recovered": 460,
-  "active": 808,
-  "critical": 28,
-  "casesPerOneMillion": 127,
-  "deathsPerOneMillion": 1,
-  "tests": 75397,
-  "testsPerOneMillion": 7436
+  "message": "Deprecated, use /v2/countries"
 }
