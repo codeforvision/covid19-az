@@ -22,10 +22,7 @@ jobs:
         run: |
           curl -sS https://pomber.github.io/covid19/timeseries.json | jq .Azerbaijan > src/data/timeseries.json
           git commit -am "Update timeseries.json" || echo "No updates to commit"
-      - name: Create Pull Request with updated data files
-        uses: peter-evans/create-pull-request@v2
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          title: Automated data update
-          body: This is an auto-generated PR with data updates.
-          branch: data-updates
-          reviewers: NARKOZ
+          github_token: ${{ secrets.GITHUB_TOKEN }}
