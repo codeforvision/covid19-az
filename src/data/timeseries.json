@@ -592,5 +592,11 @@
     "confirmed": 1766,
     "deaths": 23,
     "recovered": 1267
+  },
+  {
+    "date": "2020-4-30",
+    "confirmed": 1804,
+    "deaths": 24,
+    "recovered": 1325
   }
 ]
