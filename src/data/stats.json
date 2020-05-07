@@ -1,9 +1,9 @@
 {
   "country": "Azerbaijan",
   "cases": 2127,
-  "todayCases": 67,
+  "todayCases": 0,
   "deaths": 28,
-  "todayDeaths": 2,
+  "todayDeaths": 0,
   "recovered": 1536,
   "active": 563,
   "critical": 18,
