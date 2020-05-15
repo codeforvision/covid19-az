@@ -12,5 +12,8 @@
   "tests": 214291,
   "testsPerOneMillion": 21160,
   "population": 10127290,
-  "undefined": 0
+  "continent": "Asia",
+  "activePerOneMillion": 99.83,
+  "recoveredPerOneMillion": 181,
+  "criticalPerOneMillion": 2.86
 }
