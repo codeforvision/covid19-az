@@ -1,7 +1,7 @@
 {
   "country": "Azerbaijan",
   "cases": 2879,
-  "todayCases": 121,
+  "todayCases": 0,
   "deaths": 35,
   "todayDeaths": 0,
   "recovered": 1833,
@@ -10,6 +10,7 @@
   "casesPerOneMillion": 284,
   "deathsPerOneMillion": 3,
   "tests": 214291,
-  "testsPerOneMillion": 21135,
-  "continent": "Asia"
+  "testsPerOneMillion": 21160,
+  "population": 10127290,
+  "undefined": 0
 }
