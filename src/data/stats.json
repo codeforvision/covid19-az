@@ -3,7 +3,7 @@
   "cases": 3138,
   "todayCases": 158,
   "deaths": 36,
-  "todayDeaths": null,
+  "todayDeaths": 0,
   "recovered": 1944,
   "active": 1158,
   "critical": 37,
