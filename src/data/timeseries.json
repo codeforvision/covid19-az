@@ -754,5 +754,11 @@
     "confirmed": 4403,
     "deaths": 52,
     "recovered": 2819
+  },
+  {
+    "date": "2020-5-27",
+    "confirmed": 4568,
+    "deaths": 54,
+    "recovered": 2897
   }
 ]
