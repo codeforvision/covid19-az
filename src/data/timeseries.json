@@ -838,5 +838,11 @@
     "confirmed": 8191,
     "deaths": 98,
     "recovered": 4606
+  },
+  {
+    "date": "2020-6-10",
+    "confirmed": 8530,
+    "deaths": 102,
+    "recovered": 4720
   }
 ]
