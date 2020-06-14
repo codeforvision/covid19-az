@@ -5,7 +5,6 @@
     "@11ty/eleventy": "^0.10.0",
     "eleventy-plugin-sass": "github:NARKOZ/eleventy-plugin-sass#d00e857",
     "html-minifier": "^4.0.0",
-    "minify-json": "^1.0.0",
     "terser": "^4.6.10"
   }
 }
