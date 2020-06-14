@@ -24,7 +24,7 @@ jobs:
         run: |
           npm install
           npx @11ty/eleventy
-          for f in src/data/*.json; do jq -c . $f > tmp.json && mv tmp.json $f; done
+          for f in dist/data/*.json; do jq -c . $f > tmp.json && mv tmp.json $f; done
           npx terser dist/assets/main.js -o dist/assets/main.js -c toplevel -m toplevel
           npx terser dist/assets/test.js -o dist/assets/test.js -c toplevel -m toplevel
       - name: Deploy to gh-pages
