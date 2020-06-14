@@ -1,1 +1,356 @@
-{"tips":{"r01":{"title":"Müəssisənizin Qulluq Qrupuna müraciət edin","detail":"Cavablarınıza əsasən müəssisənizdə cavabdeh olan həkimə və ya qayğı qrupuna müraciət etməlisiniz."},"r02":{"title":"İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın","detail":"Ən qısa müddətdə işinizdə mövcud simptomlar barədə məlumat verməlisiniz."},"r03":{"title":"Səhiyyə təminatçınızla əlaqə saxlayın","detail":"Cavablarınız, COVID-19 üçün testdən keçmək barədə tibbi mütəxəssislə danışmağınızı təklif edir."},"r04":{"title":"Özünüzü təcrid etməlisiniz","detail":"Cavablarınıza əsasən evdə qalmalısınız və başqalarından uzaq olmalısınız. Əgər mümkünsə, özünüz üçün otaq və hamam otağı ayırın.\n\nBu özünüzü yaxşı hiss etmədiyiniz zaman çətin ola bilər, ancaq ətrafınızdakıları qoruyacaqdır."},"r05":{"title":"Özünüzü təcrid etməlisiniz","detail":"Cavablarınıza əsasən evdə qalmalısınız və başqalarından uzaq olmalısınız. Əgər mümkünsə, özünüz üçün otaq və hamam otağı ayırın.\n\nBu özünüzü yaxşı hiss etmədiyiniz zaman çətin ola bilər, ancaq ətrafınızdakıları qoruyacaqdır."},"r06":{"title":"İctimai məsafə saxlamalısınız","detail":"Yayılmağı dayandırmağa kömək edin. Evdən kənarda olduqda, digər insanlardan ən azı 2 metr məsafədə qalın, qruplardan çəkinin və yalnız zəruri hallarda ictimai nəqliyyatdan istifadə edin."},"r07":{"title":"İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın","detail":"Vacib bir işçi olaraq, işinizdə sağlamlıq təminatçınızla əlaqə qurmalı, işdə özünüzü qorumalı və işdən kənarda ictimai uzaqlaşma tətbiq etməlisiniz."},"r08":{"title":"İctimai məsafə saxlamalısınız","detail":"Yayılmağı dayandırmağa kömək edin. Evdən kənarda olduqda, digər insanlardan ən azı 2 metr məsafədə qalın, qruplardan çəkinin və yalnız zəruri hallarda ictimai nəqliyyatdan istifadə edin."},"r09":{"title":"İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın","detail":"Ən qısa müddətdə işinizdə mövcud simptomlar barədə məlumat verməlisiniz."}},"steps":{"a":{"title":"Laboratoriya müayinəsindən keçmək üçün bir yerə müraciət edin","detail":"Cavablarınız COVID-19 üçün labaratoriyada testdən keçmək lazım olduğunu göstərir. Daha çox məlumat üçün həkiminizlə və ya yerli səhiyyə şöbənizlə əlaqə saxlamalısınız.\n\nSəhiyyə Nazirliyinin Qaynar Xətti: 9103"},"b":{"title":"Laboratoriya müayinəsinə hazırda ehtiyac yoxdu","detail":"Hazırda cavablarınız labalatoriyada testdən keçməyə ehtiyacın olmadığını göstərir. Bir şey dəyişsə, yenidən testdən keçin."},"c":{"title":"Simptomları izləyin","detail":"Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Simptomlarınız pisləşirsə, həkimlə əlaqə saxlayın."},"d":{"title":"Simptomları izləyin","detail":"Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Həm də iki həftə ərzində gündə iki dəfə temperaturunuzu yoxlayın. Simptomlar pisləşirsə, həkimə müraciət edin."},"e":{"title":"İctimai məsafə saxlayın","detail":"Kiçik, lakin vacib addımlar COVID-19-un yayılmasını ləngidə bilər. Qruplardan çəkinin və evinizin üzvü olmayan hər kəsdən 2 metr uzaq olun. Xüsusilə COVID-19 simptomları göstərənlərdən çəkinin."},"f":{"title":"İstirahət edin və özünüzə qayğı göstərin","detail":"Yaxşı qidalanın, mayelər için və bol istirahət edin."},"g":{"title":"Başqalarından təcrid olun","detail":"Əlamətlərinizin ilk ortaya çıxdığı gündən ən azı 7 gün ərzində başqalarından uzaq olmağa çalışmalısınız. Simptomlarınız xeyli yaxşılaşarsa və dərman istifadə etmədən ən azı 72 saat qızdırmanız olmasa təcridiniz bitə bilər.\n\nÖzünüzü təcrid etməklə, COVID-19 yayılmasını yavaşlada və başqalarını qoruya bilərsiniz."},"h":{"title":"Simptomları izləyin","detail":"Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Simptomlarınız pisləşirsə, həkimlə əlaqə saxlayın."},"i":{"title":"İşlədiyiniz tibb müəssisəsinə zəng edin","detail":"Mövcud simptomlarınız barədə iş yerinizi mümkün qədər tez bir zamanda xəbərdar etməlisiniz. Bu, COVID-19 yayılmasını yavaşlandırmaq üçün çox vacibdir."},"j":{"title":"Həkiminizə və ya dayənizə zəng edin","detail":"Xəstəliyinizə baxan həkimlər və ya dayəniz ilə simptomlarınızı müzakirə etməlisiniz."},"k":{"title":"Dərmanlarınız haqqında soruşun","detail":"Hal-hazırda reseptli dərman qəbul edirsinizsə, 30 günlük tədarük almaq barədə həkiminizlə əlaqə saxlamalısınız."},"l":{"title":"Başqalarını qorumaq üçün tədbir görün","detail":"Özünüzü və ətrafınızdakıları qorumağa kömək etmək üçün maska taxmaq lazım ola bilər."},"m":{"title":"Evdə karantin","detail":"Siz yoluxmuş ola bilərsiniz. Növbəti 14 gün evdə qalmalı və simptomların olub olmadığını görməlisiniz.\n\nHəmçinin evdən kənarda başqaları ilə təmasınızı məhdudlaşdırmağa çalışmalısınız."}},"forms":[{"phase":"age_phase","form":{"sections":[{"label":"Neçə yaşınız var?","key":"age_single_choice","answer":{"type":"SingleChoice","choices":[{"label":"18 və 64 arası","value":1},{"label":"65 və yuxarı","value":2}]}}]}},{"phase":"symptom_phase","form":{"sections":[{"label":"Bu simptomlardan biri var?","detailedLabel":"Uyğun olanların hamısını seçin","key":"symptom_multiple_choice","answer":{"type":"MultipleChoice","choices":[{"label":"Qızdırma, titrəmə və ya tərləmə","value":0},{"label":"Nəfəs almaqda çətinlik (ağır deyil)","value":1},{"label":"Yeni başlayan və ya pisləşən öskürək","value":2},{"label":"Boğaz ağrısı","value":3},{"label":"Bədənin hər tərəfində ağrı","value":4},{"label":"Qusma və ya ishal","value":5},{"label":"Yuxarıdakıların heç biri","isExclusive":true,"value":6}]}}]}},{"phase":"exposure_place_phase","form":{"sections":[{"label":"Son 14 gündə COVID-19 geniş yayıldığı bir ərazidə olmusunuz?","detailedLabel":"Uyğun olanların hamısını seçin","key":"exposure_place_multiple_choice","answer":{"type":"MultipleChoice","choices":[{"label":"COVID-19 geniş yayıldığı bir ərazidə yaşayıram","value":0},{"label":"COVID-19 geniş yayıldığı bir ərazidə olmuşam","value":1},{"label":"Bilmirəm","isExclusive":true,"value":2},{"label":"Yuxarıdakıların heç biri","isExclusive":true,"value":3}]}}]}},{"phase":"exposure_person_phase","form":{"sections":[{"label":"Son 14 gündə koronavirusa (COVID-19) yoluxmuş olduğu bilinən başqası ilə təmasda olmusunuz?","detailedLabel":"Uyğun olanların hamısını seçin","key":"exposure_person_multiple_choice","answer":{"type":"MultipleChoice","choices":[{"label":"COVID-19 yoluxan biri ilə yaşayıram","value":0},{"label":"COVID-19 yoluxan biri ilə yaxından təmasda olmuşam","detailedLabel":"10 dəqiqə ərzində xəstə və ya öskürən və ya asqıran bir insandan 2 metrdən az məsafədə idim.","value":1},{"label":"COVID-19 yoluxan birinin yanında olmuşam","detailedLabel":"Ən azı 2 metr məsafədə idim və asqıya və öskürəyə məruz qalmamışam.","value":2},{"label":"Heç biri ilə təmasda olmamışam","detailedLabel":"Xəstə olan biri ilə əlaqədə olmamışam.","isExclusive":true,"value":3}]}}]}},{"phase":"travel_phase","form":{"sections":[{"label":"Son 14 gündə xarici ölkələrə səyahət etmisiniz?","key":"travel_single_choice","answer":{"type":"SingleChoice","choices":[{"label":"Xarici ölkələrə səyahət etmişəm","value":0},{"label":"Xarici ölkələrə səyahət etməmişəm","value":1}]}}]}},{"phase":"condition_phase","form":{"sections":[{"label":"Bu hallardan hər hansısa var?","detailedLabel":"Uyğun olanların hamısını seçin","key":"condition_multiple_choice","answer":{"type":"MultipleChoice","choices":[{"label":"Astma və ya xroniki ağciyər xəstəliyi","value":0},{"label":"Hamiləlik","value":1},{"label":"Fəsadlı diabet","value":2},{"label":"Öskürəyi çətinləşdirən xəstəliklər və ya hallar","value":3},{"label":"Dializə ehtiyacı olan böyrək çatışmazlığı","value":4},{"label":"Qaraciyərin sirozu","value":5},{"label":"Zəifləmiş immunitet sistemi","value":6},{"label":"Xronik ürək çatışmazlığı","value":7},{"label":"Həddindən artıq çəki","value":8},{"label":"Yuxarıdakıların heç biri","isExclusive":true,"value":9}]}}]}},{"phase":"care_facility_phase","form":{"sections":[{"label":"Tibb müəssisəsində yaşayırsınız və ya işləyirsiniz?","detailedLabel":"Buraya xəstəxana, təcili yardım otağı, digər tibb şəraiti və ya uzunmüddətli müəssisə daxildir.","key":"care_facility_single_choice","answer":{"type":"SingleChoice","choices":[{"label":"Uzun müddətli tibb müəssisəsində yaşayıram","detailedLabel":"Buraya qocalar evləri və ya baxımlı yaşayış yerləri də daxildir.","value":0},{"label":"Son 14 gündə bir xəstəxanada və ya digər baxım müəssisəsində işləmişəm","detailedLabel":"Bura könüllülük də daxildir.","value":1},{"label":"Yaxın 14 gündə bir xəstəxanada və ya digər baxım müəssisəsində işləməyi planlaşdırıram","detailedLabel":"Bura könüllülük də daxildir.","value":2},{"label":"Yox, tibb müəssisəsində yaşamıram və ya işləmirəm","value":3}]}}]}}]}
+{
+  "tips": {
+    "r01": {
+      "title": "Müəssisənizin Qulluq Qrupuna müraciət edin",
+      "detail": "Cavablarınıza əsasən müəssisənizdə cavabdeh olan həkimə və ya qayğı qrupuna müraciət etməlisiniz."
+    },
+    "r02": {
+      "title": "İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın",
+      "detail": "Ən qısa müddətdə işinizdə mövcud simptomlar barədə məlumat verməlisiniz."
+    },
+    "r03": {
+      "title": "Səhiyyə təminatçınızla əlaqə saxlayın",
+      "detail": "Cavablarınız, COVID-19 üçün testdən keçmək barədə tibbi mütəxəssislə danışmağınızı təklif edir."
+    },
+    "r04": {
+      "title": "Özünüzü təcrid etməlisiniz",
+      "detail": "Cavablarınıza əsasən evdə qalmalısınız və başqalarından uzaq olmalısınız. Əgər mümkünsə, özünüz üçün otaq və hamam otağı ayırın.\n\nBu özünüzü yaxşı hiss etmədiyiniz zaman çətin ola bilər, ancaq ətrafınızdakıları qoruyacaqdır."
+    },
+    "r05": {
+      "title": "Özünüzü təcrid etməlisiniz",
+      "detail": "Cavablarınıza əsasən evdə qalmalısınız və başqalarından uzaq olmalısınız. Əgər mümkünsə, özünüz üçün otaq və hamam otağı ayırın.\n\nBu özünüzü yaxşı hiss etmədiyiniz zaman çətin ola bilər, ancaq ətrafınızdakıları qoruyacaqdır."
+    },
+    "r06": {
+      "title": "İctimai məsafə saxlamalısınız",
+      "detail": "Yayılmağı dayandırmağa kömək edin. Evdən kənarda olduqda, digər insanlardan ən azı 2 metr məsafədə qalın, qruplardan çəkinin və yalnız zəruri hallarda ictimai nəqliyyatdan istifadə edin."
+    },
+    "r07": {
+      "title": "İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın",
+      "detail": "Vacib bir işçi olaraq, işinizdə sağlamlıq təminatçınızla əlaqə qurmalı, işdə özünüzü qorumalı və işdən kənarda ictimai uzaqlaşma tətbiq etməlisiniz."
+    },
+    "r08": {
+      "title": "İctimai məsafə saxlamalısınız",
+      "detail": "Yayılmağı dayandırmağa kömək edin. Evdən kənarda olduqda, digər insanlardan ən azı 2 metr məsafədə qalın, qruplardan çəkinin və yalnız zəruri hallarda ictimai nəqliyyatdan istifadə edin."
+    },
+    "r09": {
+      "title": "İşinizin İş Sağlamlığı Təminatçısı ilə əlaqə saxlayın",
+      "detail": "Ən qısa müddətdə işinizdə mövcud simptomlar barədə məlumat verməlisiniz."
+    }
+  },
+  "steps": {
+    "a": {
+      "title": "Laboratoriya müayinəsindən keçmək üçün bir yerə müraciət edin",
+      "detail": "Cavablarınız COVID-19 üçün labaratoriyada testdən keçmək lazım olduğunu göstərir. Daha çox məlumat üçün həkiminizlə və ya yerli səhiyyə şöbənizlə əlaqə saxlamalısınız.\n\nSəhiyyə Nazirliyinin Qaynar Xətti: 9103"
+    },
+    "b": {
+      "title": "Laboratoriya müayinəsinə hazırda ehtiyac yoxdu",
+      "detail": "Hazırda cavablarınız labalatoriyada testdən keçməyə ehtiyacın olmadığını göstərir. Bir şey dəyişsə, yenidən testdən keçin."
+    },
+    "c": {
+      "title": "Simptomları izləyin",
+      "detail": "Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Simptomlarınız pisləşirsə, həkimlə əlaqə saxlayın."
+    },
+    "d": {
+      "title": "Simptomları izləyin",
+      "detail": "Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Həm də iki həftə ərzində gündə iki dəfə temperaturunuzu yoxlayın. Simptomlar pisləşirsə, həkimə müraciət edin."
+    },
+    "e": {
+      "title": "İctimai məsafə saxlayın",
+      "detail": "Kiçik, lakin vacib addımlar COVID-19-un yayılmasını ləngidə bilər. Qruplardan çəkinin və evinizin üzvü olmayan hər kəsdən 2 metr uzaq olun. Xüsusilə COVID-19 simptomları göstərənlərdən çəkinin."
+    },
+    "f": {
+      "title": "İstirahət edin və özünüzə qayğı göstərin",
+      "detail": "Yaxşı qidalanın, mayelər için və bol istirahət edin."
+    },
+    "g": {
+      "title": "Başqalarından təcrid olun",
+      "detail": "Əlamətlərinizin ilk ortaya çıxdığı gündən ən azı 7 gün ərzində başqalarından uzaq olmağa çalışmalısınız. Simptomlarınız xeyli yaxşılaşarsa və dərman istifadə etmədən ən azı 72 saat qızdırmanız olmasa təcridiniz bitə bilər.\n\nÖzünüzü təcrid etməklə, COVID-19 yayılmasını yavaşlada və başqalarını qoruya bilərsiniz."
+    },
+    "h": {
+      "title": "Simptomları izləyin",
+      "detail": "Öskürək, qızdırma və nəfəs almaqda çətinlik olan COVID-19 əlamətlərinə nəzarət edin. Simptomlarınız pisləşirsə, həkimlə əlaqə saxlayın."
+    },
+    "i": {
+      "title": "İşlədiyiniz tibb müəssisəsinə zəng edin",
+      "detail": "Mövcud simptomlarınız barədə iş yerinizi mümkün qədər tez bir zamanda xəbərdar etməlisiniz. Bu, COVID-19 yayılmasını yavaşlandırmaq üçün çox vacibdir."
+    },
+    "j": {
+      "title": "Həkiminizə və ya dayənizə zəng edin",
+      "detail": "Xəstəliyinizə baxan həkimlər və ya dayəniz ilə simptomlarınızı müzakirə etməlisiniz."
+    },
+    "k": {
+      "title": "Dərmanlarınız haqqında soruşun",
+      "detail": "Hal-hazırda reseptli dərman qəbul edirsinizsə, 30 günlük tədarük almaq barədə həkiminizlə əlaqə saxlamalısınız."
+    },
+    "l": {
+      "title": "Başqalarını qorumaq üçün tədbir görün",
+      "detail": "Özünüzü və ətrafınızdakıları qorumağa kömək etmək üçün maska taxmaq lazım ola bilər."
+    },
+    "m": {
+      "title": "Evdə karantin",
+      "detail": "Siz yoluxmuş ola bilərsiniz. Növbəti 14 gün evdə qalmalı və simptomların olub olmadığını görməlisiniz.\n\nHəmçinin evdən kənarda başqaları ilə təmasınızı məhdudlaşdırmağa çalışmalısınız."
+    }
+  },
+  "forms": [
+    {
+      "phase": "age_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Neçə yaşınız var?",
+            "key": "age_single_choice",
+            "answer": {
+              "type": "SingleChoice",
+              "choices": [
+                {
+                  "label": "18 və 64 arası",
+                  "value": 1
+                },
+                {
+                  "label": "65 və yuxarı",
+                  "value": 2
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "symptom_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Bu simptomlardan biri var?",
+            "detailedLabel": "Uyğun olanların hamısını seçin",
+            "key": "symptom_multiple_choice",
+            "answer": {
+              "type": "MultipleChoice",
+              "choices": [
+                {
+                  "label": "Qızdırma, titrəmə və ya tərləmə",
+                  "value": 0
+                },
+                {
+                  "label": "Nəfəs almaqda çətinlik (ağır deyil)",
+                  "value": 1
+                },
+                {
+                  "label": "Yeni başlayan və ya pisləşən öskürək",
+                  "value": 2
+                },
+                {
+                  "label": "Boğaz ağrısı",
+                  "value": 3
+                },
+                {
+                  "label": "Bədənin hər tərəfində ağrı",
+                  "value": 4
+                },
+                {
+                  "label": "Qusma və ya ishal",
+                  "value": 5
+                },
+                {
+                  "label": "Yuxarıdakıların heç biri",
+                  "isExclusive": true,
+                  "value": 6
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "exposure_place_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Son 14 gündə COVID-19 geniş yayıldığı bir ərazidə olmusunuz?",
+            "detailedLabel": "Uyğun olanların hamısını seçin",
+            "key": "exposure_place_multiple_choice",
+            "answer": {
+              "type": "MultipleChoice",
+              "choices": [
+                {
+                  "label": "COVID-19 geniş yayıldığı bir ərazidə yaşayıram",
+                  "value": 0
+                },
+                {
+                  "label": "COVID-19 geniş yayıldığı bir ərazidə olmuşam",
+                  "value": 1
+                },
+                {
+                  "label": "Bilmirəm",
+                  "isExclusive": true,
+                  "value": 2
+                },
+                {
+                  "label": "Yuxarıdakıların heç biri",
+                  "isExclusive": true,
+                  "value": 3
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "exposure_person_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Son 14 gündə koronavirusa (COVID-19) yoluxmuş olduğu bilinən başqası ilə təmasda olmusunuz?",
+            "detailedLabel": "Uyğun olanların hamısını seçin",
+            "key": "exposure_person_multiple_choice",
+            "answer": {
+              "type": "MultipleChoice",
+              "choices": [
+                {
+                  "label": "COVID-19 yoluxan biri ilə yaşayıram",
+                  "value": 0
+                },
+                {
+                  "label": "COVID-19 yoluxan biri ilə yaxından təmasda olmuşam",
+                  "detailedLabel": "10 dəqiqə ərzində xəstə və ya öskürən və ya asqıran bir insandan 2 metrdən az məsafədə idim.",
+                  "value": 1
+                },
+                {
+                  "label": "COVID-19 yoluxan birinin yanında olmuşam",
+                  "detailedLabel": "Ən azı 2 metr məsafədə idim və asqıya və öskürəyə məruz qalmamışam.",
+                  "value": 2
+                },
+                {
+                  "label": "Heç biri ilə təmasda olmamışam",
+                  "detailedLabel": "Xəstə olan biri ilə əlaqədə olmamışam.",
+                  "isExclusive": true,
+                  "value": 3
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "travel_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Son 14 gündə xarici ölkələrə səyahət etmisiniz?",
+            "key": "travel_single_choice",
+            "answer": {
+              "type": "SingleChoice",
+              "choices": [
+                {
+                  "label": "Xarici ölkələrə səyahət etmişəm",
+                  "value": 0
+                },
+                {
+                  "label": "Xarici ölkələrə səyahət etməmişəm",
+                  "value": 1
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "condition_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Bu hallardan hər hansısa var?",
+            "detailedLabel": "Uyğun olanların hamısını seçin",
+            "key": "condition_multiple_choice",
+            "answer": {
+              "type": "MultipleChoice",
+              "choices": [
+                {
+                  "label": "Astma və ya xroniki ağciyər xəstəliyi",
+                  "value": 0
+                },
+                {
+                  "label": "Hamiləlik",
+                  "value": 1
+                },
+                {
+                  "label": "Fəsadlı diabet",
+                  "value": 2
+                },
+                {
+                  "label": "Öskürəyi çətinləşdirən xəstəliklər və ya hallar",
+                  "value": 3
+                },
+                {
+                  "label": "Dializə ehtiyacı olan böyrək çatışmazlığı",
+                  "value": 4
+                },
+                {
+                  "label": "Qaraciyərin sirozu",
+                  "value": 5
+                },
+                {
+                  "label": "Zəifləmiş immunitet sistemi",
+                  "value": 6
+                },
+                {
+                  "label": "Xronik ürək çatışmazlığı",
+                  "value": 7
+                },
+                {
+                  "label": "Həddindən artıq çəki",
+                  "value": 8
+                },
+                {
+                  "label": "Yuxarıdakıların heç biri",
+                  "isExclusive": true,
+                  "value": 9
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "phase": "care_facility_phase",
+      "form": {
+        "sections": [
+          {
+            "label": "Tibb müəssisəsində yaşayırsınız və ya işləyirsiniz?",
+            "detailedLabel": "Buraya xəstəxana, təcili yardım otağı, digər tibb şəraiti və ya uzunmüddətli müəssisə daxildir.",
+            "key": "care_facility_single_choice",
+            "answer": {
+              "type": "SingleChoice",
+              "choices": [
+                {
+                  "label": "Uzun müddətli tibb müəssisəsində yaşayıram",
+                  "detailedLabel": "Buraya qocalar evləri və ya baxımlı yaşayış yerləri də daxildir.",
+                  "value": 0
+                },
+                {
+                  "label": "Son 14 gündə bir xəstəxanada və ya digər baxım müəssisəsində işləmişəm",
+                  "detailedLabel": "Bura könüllülük də daxildir.",
+                  "value": 1
+                },
+                {
+                  "label": "Yaxın 14 gündə bir xəstəxanada və ya digər baxım müəssisəsində işləməyi planlaşdırıram",
+                  "detailedLabel": "Bura könüllülük də daxildir.",
+                  "value": 2
+                },
+                {
+                  "label": "Yox, tibb müəssisəsində yaşamıram və ya işləmirəm",
+                  "value": 3
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
