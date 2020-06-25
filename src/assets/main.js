@@ -93,10 +93,10 @@
       },
       grid: {
         x: {
-          show: true,
+          show: true
         },
         y: {
-          show: true,
+          show: true
         }
       }
     });
@@ -162,10 +162,10 @@
       },
       grid: {
         x: {
-          show: true,
+          show: true
         },
         y: {
-          show: true,
+          show: true
         }
       }
     });
@@ -185,8 +185,8 @@
     .then(drawCharts)
     .catch(function(err) {
       gtag('event', 'exception', {
-        'description': `request_failed: ${err}`,
-        'fatal': true
+        description: `request_failed: ${err}`,
+        fatal: true
       });
     });
 })();

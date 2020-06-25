@@ -17,7 +17,7 @@ var c19CheckApp = new Vue({
       symptom_multiple_choice: [],
       exposure_place_multiple_choice: [],
       exposure_person_multiple_choice: [],
-      condition_multiple_choice: [],
+      condition_multiple_choice: []
     },
     responsesFormatted: [],
     results: {},
@@ -27,7 +27,7 @@ var c19CheckApp = new Vue({
     this.showBanner();
     this.fetchData();
   },
-  watch : {
+  watch: {
     termsAccepted: function() {
       this.currentPhase = this.termsAccepted ? 0 : null;
     },
@@ -48,9 +48,9 @@ var c19CheckApp = new Vue({
     },
     track: function(action, category, label, value) {
       this.$gtag.event(action, {
-        'event_category': category,
-        'event_label': label,
-        'value': value
+        event_category: category,
+        event_label: label,
+        value: value
       });
     },
     submitDisabled: function(phase) {
@@ -78,7 +78,7 @@ var c19CheckApp = new Vue({
       return `${key}_${index}`;
     },
     fetchData: function() {
-      self = this;
+      var self = this;
       fetch('/data/test.json')
         .then(function(response) {
           return response.json();
@@ -88,8 +88,8 @@ var c19CheckApp = new Vue({
           self.tips = json.tips;
         }).catch(function(err) {
           self.$gtag.exception({
-            'description': `request_failed: ${err}`,
-            'fatal': true
+            description: `request_failed: ${err}`,
+            fatal: true
           });
         });
     },
