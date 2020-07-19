@@ -1060,5 +1060,17 @@
     "confirmed": 26165,
     "deaths": 334,
     "recovered": 17256
+  },
+  {
+    "date": "2020-7-17",
+    "confirmed": 26636,
+    "deaths": 341,
+    "recovered": 17805
+  },
+  {
+    "date": "2020-7-18",
+    "confirmed": 27133,
+    "deaths": 349,
+    "recovered": 18450
   }
 ]
