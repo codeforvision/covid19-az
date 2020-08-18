@@ -1246,5 +1246,11 @@
     "confirmed": 34219,
     "deaths": 506,
     "recovered": 31875
+  },
+  {
+    "date": "2020-8-17",
+    "confirmed": 34343,
+    "deaths": 508,
+    "recovered": 32042
   }
 ]
