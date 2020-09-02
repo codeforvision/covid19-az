@@ -1336,5 +1336,11 @@
     "confirmed": 36435,
     "deaths": 534,
     "recovered": 33847
+  },
+  {
+    "date": "2020-9-1",
+    "confirmed": 36578,
+    "deaths": 536,
+    "recovered": 33977
   }
 ]
