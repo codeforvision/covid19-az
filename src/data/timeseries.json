@@ -1432,5 +1432,35 @@
     "confirmed": 38658,
     "deaths": 569,
     "recovered": 36149
+  },
+  {
+    "date": "2020-9-17",
+    "confirmed": 38777,
+    "deaths": 571,
+    "recovered": 36289
+  },
+  {
+    "date": "2020-9-18",
+    "confirmed": 38894,
+    "deaths": 572,
+    "recovered": 36424
+  },
+  {
+    "date": "2020-9-19",
+    "confirmed": 39042,
+    "deaths": 574,
+    "recovered": 36601
+  },
+  {
+    "date": "2020-9-20",
+    "confirmed": 39188,
+    "deaths": 575,
+    "recovered": 36755
+  },
+  {
+    "date": "2020-9-21",
+    "confirmed": 39280,
+    "deaths": 576,
+    "recovered": 36836
   }
 ]
