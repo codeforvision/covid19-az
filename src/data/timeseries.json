@@ -1480,5 +1480,11 @@
     "confirmed": 39686,
     "deaths": 581,
     "recovered": 37255
+  },
+  {
+    "date": "2020-9-25",
+    "confirmed": 39787,
+    "deaths": 583,
+    "recovered": 37392
   }
 ]
