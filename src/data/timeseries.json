@@ -1600,5 +1600,23 @@
     "confirmed": 42750,
     "deaths": 616,
     "recovered": 39570
+  },
+  {
+    "date": "2020-10-15",
+    "confirmed": 43280,
+    "deaths": 619,
+    "recovered": 39671
+  },
+  {
+    "date": "2020-10-16",
+    "confirmed": 43789,
+    "deaths": 621,
+    "recovered": 39800
+  },
+  {
+    "date": "2020-10-17",
+    "confirmed": 44317,
+    "deaths": 623,
+    "recovered": 39903
   }
 ]
