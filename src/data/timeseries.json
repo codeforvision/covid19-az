@@ -1666,5 +1666,23 @@
     "confirmed": 49959,
     "deaths": 671,
     "recovered": 41279
+  },
+  {
+    "date": "2020-10-26",
+    "confirmed": 50486,
+    "deaths": 679,
+    "recovered": 41410
+  },
+  {
+    "date": "2020-10-27",
+    "confirmed": 51149,
+    "deaths": 688,
+    "recovered": 41693
+  },
+  {
+    "date": "2020-10-28",
+    "confirmed": 52137,
+    "deaths": 699,
+    "recovered": 42033
   }
 ]
