@@ -1714,5 +1714,11 @@
     "confirmed": 57040,
     "deaths": 753,
     "recovered": 44479
+  },
+  {
+    "date": "2020-11-3",
+    "confirmed": 58282,
+    "deaths": 768,
+    "recovered": 45030
   }
 ]
