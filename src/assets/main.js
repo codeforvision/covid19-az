@@ -75,7 +75,7 @@
             bottom: 4
           },
           tick: {
-            values: Array(31).fill().map((_, i) => i * 2000)
+            values: Array(31).fill().map((_, i) => i * 3000)
           }
         }
       },
