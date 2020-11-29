@@ -75,7 +75,7 @@
             bottom: 4
           },
           tick: {
-            values: Array(31).fill().map((_, i) => i * 3000)
+            values: Array(42).fill().map((_, i) => i * 5000)
           }
         }
       },
@@ -153,7 +153,7 @@
         },
         y: {
           tick: {
-            values: Array(21).fill().map((_, i) => i * 100)
+            values: Array(25).fill().map((_, i) => i * 300)
           }
         }
       },
