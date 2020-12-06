@@ -1870,5 +1870,41 @@
     "confirmed": 114025,
     "deaths": 1323,
     "recovered": 71691
+  },
+  {
+    "date": "2020-11-29",
+    "confirmed": 118195,
+    "deaths": 1361,
+    "recovered": 73676
+  },
+  {
+    "date": "2020-11-30",
+    "confirmed": 121176,
+    "deaths": 1392,
+    "recovered": 74902
+  },
+  {
+    "date": "2020-12-1",
+    "confirmed": 125602,
+    "deaths": 1433,
+    "recovered": 76897
+  },
+  {
+    "date": "2020-12-2",
+    "confirmed": 129544,
+    "deaths": 1470,
+    "recovered": 79162
+  },
+  {
+    "date": "2020-12-3",
+    "confirmed": 133733,
+    "deaths": 1510,
+    "recovered": 81234
+  },
+  {
+    "date": "2020-12-4",
+    "confirmed": 138000,
+    "deaths": 1551,
+    "recovered": 83800
   }
 ]
