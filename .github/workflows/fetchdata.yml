@@ -1,5 +1,9 @@
 name: Fetch data
 
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+
 jobs:
   build:
     if: github.repository == 'codeforvision/covid19-az'
