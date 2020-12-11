@@ -1930,5 +1930,17 @@
     "confirmed": 154152,
     "deaths": 1713,
     "recovered": 93411
+  },
+  {
+    "date": "2020-12-9",
+    "confirmed": 158555,
+    "deaths": 1755,
+    "recovered": 96330
+  },
+  {
+    "date": "2020-12-10",
+    "confirmed": 162774,
+    "deaths": 1793,
+    "recovered": 99892
   }
 ]
