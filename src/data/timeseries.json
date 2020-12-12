@@ -1942,5 +1942,11 @@
     "confirmed": 162774,
     "deaths": 1793,
     "recovered": 99892
+  },
+  {
+    "date": "2020-12-11",
+    "confirmed": 167155,
+    "deaths": 1840,
+    "recovered": 103550
   }
 ]
