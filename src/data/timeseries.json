@@ -1948,5 +1948,17 @@
     "confirmed": 167155,
     "deaths": 1840,
     "recovered": 103550
+  },
+  {
+    "date": "2020-12-12",
+    "confirmed": 171423,
+    "deaths": 1883,
+    "recovered": 107635
+  },
+  {
+    "date": "2020-12-13",
+    "confirmed": 175874,
+    "deaths": 1922,
+    "recovered": 111918
   }
 ]
