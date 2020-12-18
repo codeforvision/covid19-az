@@ -1972,5 +1972,17 @@
     "confirmed": 183259,
     "deaths": 2007,
     "recovered": 119005
+  },
+  {
+    "date": "2020-12-16",
+    "confirmed": 187336,
+    "deaths": 2050,
+    "recovered": 122859
+  },
+  {
+    "date": "2020-12-17",
+    "confirmed": 191460,
+    "deaths": 2088,
+    "recovered": 127064
   }
 ]
