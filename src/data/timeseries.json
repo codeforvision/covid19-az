@@ -1984,5 +1984,11 @@
     "confirmed": 191460,
     "deaths": 2088,
     "recovered": 127064
+  },
+  {
+    "date": "2020-12-18",
+    "confirmed": 195422,
+    "deaths": 2133,
+    "recovered": 131252
   }
 ]
