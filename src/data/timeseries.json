@@ -1996,5 +1996,23 @@
     "confirmed": 199127,
     "deaths": 2175,
     "recovered": 135462
+  },
+  {
+    "date": "2020-12-20",
+    "confirmed": 202088,
+    "deaths": 2210,
+    "recovered": 139779
+  },
+  {
+    "date": "2020-12-21",
+    "confirmed": 203593,
+    "deaths": 2253,
+    "recovered": 142807
+  },
+  {
+    "date": "2020-12-22",
+    "confirmed": 205877,
+    "deaths": 2294,
+    "recovered": 147199
   }
 ]
