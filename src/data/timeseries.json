@@ -2014,5 +2014,11 @@
     "confirmed": 205877,
     "deaths": 2294,
     "recovered": 147199
+  },
+  {
+    "date": "2020-12-23",
+    "confirmed": 208211,
+    "deaths": 2340,
+    "recovered": 151660
   }
 ]
