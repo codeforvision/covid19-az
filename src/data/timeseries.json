@@ -2020,5 +2020,17 @@
     "confirmed": 208211,
     "deaths": 2340,
     "recovered": 151660
+  },
+  {
+    "date": "2020-12-24",
+    "confirmed": 210061,
+    "deaths": 2380,
+    "recovered": 155886
+  },
+  {
+    "date": "2020-12-25",
+    "confirmed": 211764,
+    "deaths": 2416,
+    "recovered": 160245
   }
 ]
