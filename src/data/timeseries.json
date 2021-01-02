@@ -2062,5 +2062,11 @@
     "confirmed": 217636,
     "deaths": 2609,
     "recovered": 180295
+  },
+  {
+    "date": "2020-12-31",
+    "confirmed": 218700,
+    "deaths": 2641,
+    "recovered": 184422
   }
 ]
