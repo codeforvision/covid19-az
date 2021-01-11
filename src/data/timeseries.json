@@ -2116,5 +2116,17 @@
     "confirmed": 223417,
     "deaths": 2869,
     "recovered": 205406
+  },
+  {
+    "date": "2021-1-9",
+    "confirmed": 224050,
+    "deaths": 2890,
+    "recovered": 207088
+  },
+  {
+    "date": "2021-1-10",
+    "confirmed": 224651,
+    "deaths": 2909,
+    "recovered": 208681
   }
 ]
