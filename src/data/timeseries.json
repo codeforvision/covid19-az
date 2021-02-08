@@ -2266,5 +2266,35 @@
     "confirmed": 230455,
     "deaths": 3141,
     "recovered": 223807
+  },
+  {
+    "date": "2021-2-3",
+    "confirmed": 230617,
+    "deaths": 3145,
+    "recovered": 224168
+  },
+  {
+    "date": "2021-2-4",
+    "confirmed": 230769,
+    "deaths": 3148,
+    "recovered": 224431
+  },
+  {
+    "date": "2021-2-5",
+    "confirmed": 230907,
+    "deaths": 3153,
+    "recovered": 224760
+  },
+  {
+    "date": "2021-2-6",
+    "confirmed": 231022,
+    "deaths": 3156,
+    "recovered": 224961
+  },
+  {
+    "date": "2021-2-7",
+    "confirmed": 231154,
+    "deaths": 3158,
+    "recovered": 225246
   }
 ]
