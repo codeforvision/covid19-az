@@ -2320,5 +2320,11 @@
     "confirmed": 231649,
     "deaths": 3170,
     "recovered": 226119
+  },
+  {
+    "date": "2021-2-12",
+    "confirmed": 231840,
+    "deaths": 3173,
+    "recovered": 226345
   }
 ]
