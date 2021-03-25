@@ -2548,5 +2548,23 @@
     "confirmed": 246304,
     "deaths": 3351,
     "recovered": 232876
+  },
+  {
+    "date": "2021-3-22",
+    "confirmed": 246974,
+    "deaths": 3366,
+    "recovered": 233087
+  },
+  {
+    "date": "2021-3-23",
+    "confirmed": 248307,
+    "deaths": 3384,
+    "recovered": 233356
+  },
+  {
+    "date": "2021-3-24",
+    "confirmed": 249492,
+    "deaths": 3404,
+    "recovered": 233834
   }
 ]
