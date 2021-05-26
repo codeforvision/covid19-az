@@ -180,7 +180,7 @@
     return response.json();
   }
 
-  fetch('/data/timeseries.json')
+  fetch('/covid19-az/data/timeseries.json')
     .then(parseJSON)
     .then(drawCharts)
     .catch(function(err) {

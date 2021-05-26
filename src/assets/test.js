@@ -79,7 +79,7 @@ var c19CheckApp = new Vue({
     },
     fetchData: function() {
       var self = this;
-      fetch('/data/test.json')
+      fetch('/covid19-az/data/test.json')
         .then(function(response) {
           return response.json();
         }).then(function(json) {
